@@ -1,0 +1,14 @@
+{
+  "name": "dependencies",
+  "dependencies": {
+    "aria": "0.2.1",
+    "autoprefixer": "9.4.7",
+    "react": "16.5.2",
+    "react-dom": "16.5.2",
+    "redux": "4.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.29.6",
+    "webpack-manifest-plugin": "^2.0.4"
+  }
+}
